@@ -1,16 +1,16 @@
 {
   "private": false,
   "displayName": "AC Freedom",
-  "name": "homebridge-broadlink-heater-cooler",
-  "version": "2.0.14",
+  "name": "homebridge-broadlink-thermostat",
+  "version": "1.0.0",
   "description": "Controll your AC from AC Freedom App via homebridge.",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/makleso6/homebridge-broadlink-heater-cooler.git"
+    "url": "git://github.com/makleso6/homebridge-broadlink-thermostat.git"
   },
   "bugs": {
-    "url": "https://github.com/makleso6/homebridge-broadlink-heater-cooler/issues"
+    "url": "https://github.com/makleso6/homebridge-broadlink-thermostat/issues"
   },
   "engines": {
     "node": ">=10.17.0",
